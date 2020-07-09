@@ -1,0 +1,6 @@
+D:\Software development\Algorithms\C Sharp Basic Algorithms part2\Exercises, Practice, Solution\bin\Debug\Exercises, Practice, Solution.exe.config
+D:\Software development\Algorithms\C Sharp Basic Algorithms part2\Exercises, Practice, Solution\bin\Debug\Exercises, Practice, Solution.exe
+D:\Software development\Algorithms\C Sharp Basic Algorithms part2\Exercises, Practice, Solution\bin\Debug\Exercises, Practice, Solution.pdb
+D:\Software development\Algorithms\C Sharp Basic Algorithms part2\Exercises, Practice, Solution\obj\Debug\Exercises, Practice, Solution.csprojAssemblyReference.cache
+D:\Software development\Algorithms\C Sharp Basic Algorithms part2\Exercises, Practice, Solution\obj\Debug\Exercises, Practice, Solution.exe
+D:\Software development\Algorithms\C Sharp Basic Algorithms part2\Exercises, Practice, Solution\obj\Debug\Exercises, Practice, Solution.pdb
