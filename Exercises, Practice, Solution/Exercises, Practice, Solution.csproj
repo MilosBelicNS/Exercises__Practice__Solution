@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Exercises__Practice__Solution.Practice._30</StartupObject>
+    <StartupObject>Exercises__Practice__Solution.Practice._45</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -76,6 +76,21 @@
     <Compile Include="Practice\28.cs" />
     <Compile Include="Practice\29.cs" />
     <Compile Include="Practice\30.cs" />
+    <Compile Include="Practice\31.cs" />
+    <Compile Include="Practice\32.cs" />
+    <Compile Include="Practice\33.cs" />
+    <Compile Include="Practice\34.cs" />
+    <Compile Include="Practice\35.cs" />
+    <Compile Include="Practice\36.cs" />
+    <Compile Include="Practice\37.cs" />
+    <Compile Include="Practice\38.cs" />
+    <Compile Include="Practice\39.cs" />
+    <Compile Include="Practice\40.cs" />
+    <Compile Include="Practice\41.cs" />
+    <Compile Include="Practice\42.cs" />
+    <Compile Include="Practice\43.cs" />
+    <Compile Include="Practice\44.cs" />
+    <Compile Include="Practice\45.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
