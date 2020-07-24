@@ -23,8 +23,9 @@ namespace Exercises__Practice__Solution.Practice
 
         public static string StringX(string str)
         {
-            return str.Substring(1).Substring(0, str.Length - 2);
-            //zakomentarisi
+            //return str.Substring(1).Substring(0, str.Length - 2);
+            return str.Substring(1, str.Length -2);
+            
         }
     }
 }

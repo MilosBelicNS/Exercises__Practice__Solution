@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Exercises__Practice__Solution</RootNamespace>
     <AssemblyName>Exercises, Practice, Solution</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Exercises__Practice__Solution.Practice._65</StartupObject>
+    <StartupObject>Exercises__Practice__Solution.Practice._85</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -111,6 +112,26 @@
     <Compile Include="Practice\63.cs" />
     <Compile Include="Practice\64.cs" />
     <Compile Include="Practice\65.cs" />
+    <Compile Include="Practice\66.cs" />
+    <Compile Include="Practice\67.cs" />
+    <Compile Include="Practice\68.cs" />
+    <Compile Include="Practice\69.cs" />
+    <Compile Include="Practice\70.cs" />
+    <Compile Include="Practice\71.cs" />
+    <Compile Include="Practice\72.cs" />
+    <Compile Include="Practice\73.cs" />
+    <Compile Include="Practice\74.cs" />
+    <Compile Include="Practice\75.cs" />
+    <Compile Include="Practice\76.cs" />
+    <Compile Include="Practice\77.cs" />
+    <Compile Include="Practice\78.cs" />
+    <Compile Include="Practice\79.cs" />
+    <Compile Include="Practice\80.cs" />
+    <Compile Include="Practice\81.cs" />
+    <Compile Include="Practice\82.cs" />
+    <Compile Include="Practice\83.cs" />
+    <Compile Include="Practice\84.cs" />
+    <Compile Include="Practice\85.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
