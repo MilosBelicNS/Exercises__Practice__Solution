@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Exercises__Practice__Solution.Practice._85</StartupObject>
+    <StartupObject>Exercises__Practice__Solution.Practice._105</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,12 @@
     <Compile Include="Practice\08.cs" />
     <Compile Include="Practice\09.cs" />
     <Compile Include="Practice\10.cs" />
+    <Compile Include="Practice\100.cs" />
+    <Compile Include="Practice\101.cs" />
+    <Compile Include="Practice\102.cs" />
+    <Compile Include="Practice\103.cs" />
+    <Compile Include="Practice\104.cs" />
+    <Compile Include="Practice\105.cs" />
     <Compile Include="Practice\11.cs" />
     <Compile Include="Practice\12.cs" />
     <Compile Include="Practice\13.cs" />
@@ -132,6 +138,20 @@
     <Compile Include="Practice\83.cs" />
     <Compile Include="Practice\84.cs" />
     <Compile Include="Practice\85.cs" />
+    <Compile Include="Practice\86.cs" />
+    <Compile Include="Practice\87.cs" />
+    <Compile Include="Practice\88.cs" />
+    <Compile Include="Practice\89.cs" />
+    <Compile Include="Practice\90.cs" />
+    <Compile Include="Practice\91.cs" />
+    <Compile Include="Practice\92.cs" />
+    <Compile Include="Practice\93.cs" />
+    <Compile Include="Practice\94.cs" />
+    <Compile Include="Practice\95.cs" />
+    <Compile Include="Practice\96.cs" />
+    <Compile Include="Practice\97.cs" />
+    <Compile Include="Practice\98.cs" />
+    <Compile Include="Practice\99.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
